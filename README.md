@@ -13,7 +13,7 @@
 
 :beginner: You can checkout my projects from here [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/SvnvmD)
 
-:beginner: Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) :sparkler:
+:beginner: Connect with me on LinkedIn :fireworks: [LinkeDin Profile](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) :sparkler:
 
 
 ## Tech Stack :computer:
