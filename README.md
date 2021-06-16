@@ -1,19 +1,19 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Sonam Dargay](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) :blush:	 . I am a full-stack developer from The Kingdom of Bhutan. :satellite:
+:beginner: I am [Sonam Dargay](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) :blush:	 . I am a full-stack developer from The Kingdom of Bhutan. :evergreen_tree:
 
-* I am a big fan of Spring Framework :toolbox: , and I have developed several enterprise Applications using Spring Boot. :sparkles:.
+:beginner: I am a big fan of Spring Framework :toolbox: , and I have developed several enterprise Applications using Spring Boot. :sparkles:.
 
-* I have done wide range projects which involved setting up of SMS Gateway Servers , Payment Gateway Integrations,  Front-end development using Angular :file_cabinet: .
+:beginner: I have done wide range projects which involved setting up of SMS Gateway Servers , Payment Gateway Integrations,  Front-end development using Angular :file_cabinet: .
 
-* I am currently brushing up my skills and plan to learn React and React Native .
+:beginner: I am currently brushing up my skills and plan to learn React and React Native .
 
-* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
+:beginner: I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
 
-* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/SvnvmD)
+:beginner: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/SvnvmD)
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) :sparkler:
+:beginner: Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) :sparkler:
 
 
 ## Tech Stack :computer:
