@@ -7,7 +7,7 @@
 
 :beginner: I have done wide range projects which involved setting up of SMS Gateway Servers , Payment Gateway Integrations,  Front-end development using Angular :file_cabinet: .
 
-:beginner: I am currently brushing up my skills and plan to learn React and React Native .
+:beginner: I am currently brushing up my skills in React and React Native.
 
 :beginner: I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
 
