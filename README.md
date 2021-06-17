@@ -1,19 +1,19 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-:beginner: I am [Sonam Dargay](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) . I am a full-stack developer from The Kingdom of Bhutan. :evergreen_tree:
+:beginner:  I am [Sonam Dargay](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) . I am a full-stack developer from The Kingdom of Bhutan. :evergreen_tree:
 
-:beginner: I am a big fan of Spring Framework, and I have developed several enterprise Applications using Spring Boot. :sparkles:.
+:beginner:  I am a big fan of Spring Framework, and I have developed several enterprise Applications using Spring Boot. :sparkles:.
 
-:beginner: I have done wide range projects which involved setting up of SMS Gateway Servers , Payment Gateway Integrations, and  Front-end development using Angular.
+:beginner:  I have done wide range projects which involved setting up of SMS Gateway Servers , Payment Gateway Integrations, and  Front-end development using Angular.
 
-:beginner: I am currently brushing up my skills in React and React Native.
+:beginner:  I am currently brushing up my skills in React and React Native.
 
-:beginner: I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
+:beginner:  I am willing to work on free-lance projects and love to  contribute to open source projects.
 
-:beginner: You can checkout my projects from here [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/SvnvmD)
+:beginner:  You can checkout my projects from here [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/SvnvmD)
 
-:beginner: Connect with me on LinkedIn :fireworks: [LinkeDin Profile](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) :sparkler:
+:beginner:  Connect with me on LinkedIn :fireworks: [LinkeDin Profile](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) :sparkler:
 
 
 ## Tech Stack :computer:
