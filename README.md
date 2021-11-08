@@ -55,42 +55,6 @@
 </td>
 </tr>
 
-<tr>
-<td align="center" width="20%">
- <span><b><center>Linux System Administration</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png">
-</td>
-
-<td align="center" width="20%">
-<span><b><center>OpenCV</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png"> 
-</td>
-
-
-
-<td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
- <span><b><center>SQL</center></b></span> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Oracle</center></b></span> 
-<img height=65px src="https://www.fujitsu.com/fts/Images/oracle-db580x224_tcm21-40873.jpg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>MySQL</center></b></span> 
-<img height=65px src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"> 
-</td>
-</tr>
-
 </tbody>
 </table>
 
