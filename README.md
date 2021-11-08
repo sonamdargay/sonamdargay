@@ -45,8 +45,8 @@
 </td>
 
 <td align="center" width="20%">
- <span><b><center>React</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png"> 
+ <span><b><center>Flutter</center></b></span> 
+<img height=65px src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png"> 
 </td>
 
 <td align="center" width="20%">
