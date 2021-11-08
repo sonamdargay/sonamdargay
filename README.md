@@ -26,16 +26,17 @@
 <span><b><center>Spring</center></b></span> 
 <img height=60px src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"> 
 </td>
-
-<td align="center" width="20%">
+  
+  <td align="center" width="20%">
+ <span><b><center>Flutter</center></b></span> 
+<img height=65px src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png"> 
+</td>
+  
+  <td align="center" width="20%">
 <span><b><center>Angular</center></b></span> 
 <img height=60px src="https://angular.io/assets/images/logos/angular/angular.svg"> 
 </td>
 
-<td align="center" width="20%">
- <span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
-</td>
 </tr>
 
 <tr>
@@ -43,10 +44,10 @@
 <span><b><center>Laravel</center></b></span> 
 <img height=65px src="https://laravel.com/img/logotype.min.svg"> 
 </td>
-
-<td align="center" width="20%">
- <span><b><center>Flutter</center></b></span> 
-<img height=65px src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png"> 
+ 
+ <td align="center" width="20%">
+ <span><b><center>Python</center></b></span> 
+<img height=65px src="https://www.python.org/static/img/psf-logo@2x.png"> 
 </td>
 
 <td align="center" width="20%">
