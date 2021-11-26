@@ -29,7 +29,7 @@
   
   <td align="center" width="20%">
  <span><b><center>Flutter</center></b></span> 
-<img height=65px src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png"> 
+<img height=65px src="https://static.wikia.nocookie.net/logo-timeline/images/c/cf/4B4A9751-D2BF-4A93-BDCC-CDCA5326B65F.png/revision/latest?cb=20210426191500"> 
 </td>
   
   <td align="center" width="20%">
