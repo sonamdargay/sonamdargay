@@ -5,7 +5,7 @@
 
 :beginner:  I am a big fan of Spring Framework, and I have developed several enterprise Applications using Spring Boot. :sparkles:.
 
-:beginner:  I have done wide range projects which involved setting up of SMS Gateway Servers , Payment Gateway Integrations, and  Front-end development using Angular.
+:beginner:  I have done wide range of projects which involved setting up of SMS Gateway Servers , Payment Gateway Integrations, and  Front-end development using Angular.
 
 :beginner:  I am currently brushing up my skills in React and React Native.
 
