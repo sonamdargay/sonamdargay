@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-:beginner:  I am [Sonam Dargay](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) . I am a full-stack developer from The Kingdom of Bhutan. :evergreen_tree:
+:beginner:  I am [Sonam Dargay](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) . I am a full-stack developer and [blogger](https://bhutanio.com/) from The Kingdom of Bhutan. :evergreen_tree:
 
 :beginner:  I am a big fan of Spring Framework, and I have developed several enterprise Applications using Spring Boot. :sparkles:.
 
