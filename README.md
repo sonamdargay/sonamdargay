@@ -58,7 +58,7 @@
 
 </tbody>
 </table>
-
+<br>
 If you like the Repository give it a :star: and also follow me on Github :grinning: , you can also see my projects here [Projects](https://github.com/SvnvmD)
 
 ----
