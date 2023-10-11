@@ -1,19 +1,17 @@
 <h1 align="center"> Hello World! 👋 </h1>
 
 
-:beginner:  I am [Sonam Dargay](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) . I am a full-stack developer and [blogger](https://bhutanio.com/) from The Kingdom of Bhutan. :evergreen_tree:
+:beginner:  I am [Sonam Dargay](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) . I am a full-stack developer and [blogger](https://bhutanio.com/) from The Kingdom of Bhutan. Currently, I am pursuing my masters degree in Information Technology in Queensland University of Technology :evergreen_tree:
 
-:beginner:  I am a big fan of Spring Framework, and I have developed several enterprise Applications using Spring Boot. :sparkles:.
+:beginner:  I have developed several enterprise Applications using Spring Boot. :sparkles:.
 
-:beginner:  I have done wide range of projects which involved setting up of SMS Gateway Servers , Payment Gateway Integrations, and  Front-end development using Angular.
-
-:beginner:  I am currently brushing up my skills in React and React Native.
+:beginner:  I have done wide range of projects which involved setting up of SMS Gateway Servers, Payment Gateway Integrations, and  Front-end development using Angular.
 
 :beginner:  I am willing to work on free-lance projects and love to  contribute to open source projects.
 
 :beginner:  You can checkout my projects from here [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/SvnvmD)
 
-:beginner:  Connect with me on LinkedIn :fireworks: [LinkeDin Profile](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) :sparkler:
+:beginner:  Connect with me on LinkedIn :fireworks: [LinkedIn Profile](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) :sparkler:
 
 
 ## Tech Stack :computer:
@@ -24,7 +22,7 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>Spring</center></b></span> 
-<img height=60px src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"> 
 </td>
   
   <td align="center" width="20%">
@@ -59,6 +57,15 @@
 </tbody>
 </table>
 <br>
-If you like the Repository give it a :star: and also follow me on Github :grinning: , you can also see my projects here [Projects](https://github.com/SvnvmD)
 
 ----
+
+## Publicly Available Projects in which I was a team member:computer:
+:beginner:  [Bhutan Treasury Bills System](http://202.144.129.58:8080/tbills/)
+
+:beginner:  [Ngultrul Exchange System](http://202.144.157.58:8080/NES/login)
+
+:beginner:  [Authorized Money Changer System](http://202.144.157.54/login)
+
+:beginner:  [RMA Managmement Dashboard](https://www.rma.org.bt/bis/login)
+
