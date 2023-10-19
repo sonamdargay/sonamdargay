@@ -63,7 +63,7 @@
 ## Publicly Available Projects in which I was a team member:computer:
 :beginner:  [Bhutan Treasury Bills System](http://202.144.129.58:8080/tbills/)
 
-:beginner:  [Ngultrul Exchange System](http://202.144.157.58:8080/NES/login)
+:beginner:  [Ngultrum Exchange System](http://202.144.157.58:8080/NES/login)
 
 :beginner:  [Authorized Money Changer System](http://202.144.157.54/login)
 
