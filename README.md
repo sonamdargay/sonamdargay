@@ -60,12 +60,46 @@
 
 ----
 
-## Publicly Available Projects in which I was a team member:computer:
+
+
+
+## Web Application Development :computer: 
+*Publicly Available Projects in which I was a team member*
+
 :beginner:  [Bhutan Treasury Bills System](http://202.144.129.58:8080/tbills/)
+### Technologies Used:
+Bank-end: Spring Boot
+
+Front-end: Angular
 
 :beginner:  [Ngultrum Exchange System](http://202.144.157.58:8080/NES/login)
+#### Technologies Used:
+Bank-end: Spring MVC
+
+Front-end: JSP
 
 :beginner:  [Authorized Money Changer System](http://202.144.157.54/login)
+#### Technologies Used:
+Bank-end: Spring MVC
+
+Front-end: JSP
 
 :beginner:  [RMA Managmement Dashboard](https://www.rma.org.bt/bis/login)
+#### Technologies Used:
+Bank-end: Spring MVC
 
+Front-end: JSP
+
+## Mobile App Development ☎️
+*Publicly Available Projects in which I was a team member*
+:beginner:  [Khathuen - Buddhist Prayer Book App](https://khathuen.bhutanio.com/) 
+
+Cross-platform: Flutter
+
+The app is published both on Google PlayStore and Apple App Store.
+
+## Engineering Projects 
+1. Bhutan Financial Switch(BFS) Database (Oracle) Administration
+2. Administered both API- and ISO-8583- message based BFS services 
+3. EMV-RuPay Project implementation in Bhutan
+4. JCB Connectivity with BFS
