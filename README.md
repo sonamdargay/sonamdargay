@@ -1,15 +1,15 @@
 <h1 align="center"> Hello World! 👋 </h1>
 
 
-:beginner:  I am [Sonam Dargay](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) . I am a full-stack developer and [blogger](https://bhutanio.com/) from The Kingdom of Bhutan. Currently, I am pursuing my masters degree in Information Technology in Queensland University of Technology :evergreen_tree:
+:beginner:  I am [Sonam Dargay](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) . I am a full-stack developer and [blogger](https://bhutanio.com/) from The Kingdom of Bhutan. Currently, I am pursuing my master's degree in Information Technology at Queensland University of Technology :evergreen_tree:
 
-:beginner:  I have developed several enterprise Applications using Spring Boot for the [central bank of Bhutan](https://www.rma.org.bt). I also managed several IT projects which aimed at enhancing interoperability of inter-bank and cross-border financial transactions(both card and cardless transactions) in Bhutan. :sparkles:.
+:beginner:  I have developed several enterprise Applications using Spring Boot for the [central bank of Bhutan](https://www.rma.org.bt). I also managed several IT projects to enhance the interoperability of inter-bank and cross-border financial transactions(both card and cardless transactions) in Bhutan. :sparkles:.
 
-:beginner:  I have done wide range of projects which involved setting up of SMS Gateway Servers, installation of both opensource and commercial DBMSs, Payment Gateway Integrations, and  Front-end development using Angular.
+:beginner:  I have done a wide range of projects that involved setting up SMS Gateway Servers, installing both open-source and commercial DBMSs, Payment Gateway Integrations, and  Front-end development using Angular.
 
-:beginner:  I am willing to work on free-lance projects and love to  contribute to open source projects.
+:beginner:  I am willing to work on freelance projects and love contributing to open-source projects.
 
-:beginner:  You can checkout my projects from here [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/SvnvmD)
+:beginner:  You can check out my projects from here [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/SvnvmD)
 
 :beginner:  Connect with me on LinkedIn :fireworks: [LinkedIn Profile](https://bt.linkedin.com/in/sonam-dargay-5aa4a0b6) :sparkler:
 
