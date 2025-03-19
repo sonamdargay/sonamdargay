@@ -45,7 +45,7 @@
  
  <td align="center" width="20%">
  <span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/img/psf-logo@2x.png"> 
+<img height=65px src="https://www.python.org/static/community_logos/python-logo-generic.svg"> 
 </td>
 
 <td align="center" width="20%">
